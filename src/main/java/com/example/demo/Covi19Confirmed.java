@@ -18,7 +18,7 @@ import java.util.List;
 @Service
 public class Covi19Confirmed {
 
-    public static final String CON_CONFIRMED_RUL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv";
+    public static final String CON_CONFIRMED_RUL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv";
 
 
     private DataRepo dataRepo;
